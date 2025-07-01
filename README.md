@@ -1,7 +1,7 @@
-# Music Recommender Tool - Final Project at Code in Place 2021 (Stanford University)
+# Music Recommender Tool - Final Project at Code in Place 2025 (Stanford University)
 
 ## Description
-This is my final project for the special online course Code in Place 2021 by Stanford University. This Python program uses core concepts from Code in Place's course lectures such as variables, lists, dictionaries, loops, and random library.
+This is my final project for the special online course Code in Place 2025 by Stanford University. This Python program uses core concepts from Code in Place's course lectures such as variables, lists, dictionaries, loops, and random library.
 
 "Music recommender tool" gives a user random songs from its dataset by:
 - First, asking for number of song(s) the user wants to receive
